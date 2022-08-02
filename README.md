@@ -1,4 +1,5 @@
-## Denoising-Diffusion-GANs (DDGAN) &mdash; TensorFlow Implementation
+## DDGAN &mdash; TensorFlow Implementation
+### : Tackling the Generative Learning Trilemma with Denoising Diffusion GANs (ICLR 2022 Spotlight)
 
 
 ## Usage
