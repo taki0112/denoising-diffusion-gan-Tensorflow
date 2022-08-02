@@ -1,2 +1,16 @@
-# denoising-diffusion-gan-Tensorflow
-Tensorflow implementation of "Tackling the Generative Learning Trilemma with Denoising Diffusion GANs" (ICLR 2022 Spotlight)
+## Denoising-Diffusion-GANs (DDGAN) &mdash; TensorFlow Implementation
+
+
+## Usage
+### Train
+```
+> python main.py --dataset FFHQ
+```
+
+### Test
+```
+> python main.py --dataset FFHQ --phase test
+```
+
+## Author
+* [Junho Kim](http://bit.ly/jhkim_resume)
