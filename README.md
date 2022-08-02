@@ -2,7 +2,7 @@
 ### : Tackling the Generative Learning Trilemma with Denoising Diffusion GANs (ICLR 2022 Spotlight)
 
 <div align="center">
-  <img src="./assets/teaser2.png">
+  <img src="./assets/teaser3.png">
 </div>
 
 ## Usage
