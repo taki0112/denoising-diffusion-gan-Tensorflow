@@ -1,4 +1,4 @@
-## DDGAN &mdash; TensorFlow Implementation
+## DDGAN &mdash; TensorFlow Implementation [[Project page]](https://nvlabs.github.io/denoising-diffusion-gan/)
 ### : Tackling the Generative Learning Trilemma with Denoising Diffusion GANs (ICLR 2022 Spotlight)
 
 <div align="center">
